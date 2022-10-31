@@ -3,8 +3,8 @@
 
 /**
  * print_diagsums - prints the sum of the two diagonals
- * of a squre matrix of integers
- * @a: squre matrix of which we print the sum of diagonals
+ * of a square matrix of integers
+ * @a: square matrix of which we print the sum of diagonals
  * @size: size of the matrix
  */
 void print_diagsums(int *a, int size)
@@ -14,7 +14,7 @@ void print_diagsums(int *a, int size)
 	unsigned int sum, sum1;
 
 	sum = 0;
-	sum1 0;
+	sum1 = 0;
 
 	for (i = 0; i < size; i++)
 	{
